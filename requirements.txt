@@ -1,0 +1,6 @@
+streamlit
+base64
+webbrowser
+pandas
+datetime
+openai
